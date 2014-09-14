@@ -1,0 +1,29 @@
+{
+  "name": "circuit-breaker-wrapper",
+  "version": "1.0.0",
+  "description": "Wrap an async function call for use with a circuit breaker",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . && istanbul cover --report lcov _mocha -- --ui bdd --check-leaks --recursive --slow 50 --reporter spec test",
+    "lint": "eslint ."
+  },
+  "author": "Springworks",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Springworks/node-circuit-breaker-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Springworks/node-circuit-breaker-wrapper/issues"
+  },
+  "dependencies": {
+    "circuit-breaker-js": "0.0.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "eslint": "^0.8.1",
+    "istanbul": "^0.3.2",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  }
+}

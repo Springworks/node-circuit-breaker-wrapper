@@ -1,0 +1,7 @@
+---
+  env:
+    mocha: true # Adds all of the Mocha testing global variables
+
+  rules:
+    no-wrap-func: 0 # Allow `(function() { fn(); }).should.throw();`
+    no-unused-expressions: 0 # Allow `val.should.be.a.String;`
