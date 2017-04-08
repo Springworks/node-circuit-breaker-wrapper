@@ -17,7 +17,7 @@
     "url": "https://github.com/Springworks/node-circuit-breaker-wrapper/issues"
   },
   "dependencies": {
-    "circuit-breaker-js": "0.0.1"
+    "circuit-breaker-js": "^0.0.1"
   },
   "devDependencies": {
     "chai": "^1.9.1",
