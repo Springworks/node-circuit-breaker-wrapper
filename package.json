@@ -20,11 +20,11 @@
     "circuit-breaker-js": "^0.0.1"
   },
   "devDependencies": {
-    "chai": "^1.9.1",
+    "chai": "^3.5.0",
     "coveralls": "^2.11.1",
-    "eslint": "^0.8.1",
-    "istanbul": "^0.3.2",
-    "mocha": "^1.21.4",
+    "eslint": "^3.14.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
     "sinon": "^1.10.3",
     "sinon-chai": "^2.5.0"
   }
