@@ -1,5 +1,7 @@
 # circuit-breaker-wrapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Springworks/node-circuit-breaker-wrapper.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/Springworks/node-circuit-breaker-wrapper.svg?branch=master)](https://travis-ci.org/Springworks/node-circuit-breaker-wrapper)
 [![Coverage Status](https://coveralls.io/repos/Springworks/node-circuit-breaker-wrapper/badge.png?branch=master)](https://coveralls.io/r/Springworks/node-circuit-breaker-wrapper?branch=master)
 
